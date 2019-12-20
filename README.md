@@ -5,4 +5,4 @@ I'll be the problem with some of it's testcases for better understanding.
 I'll be posting my solution with my time and Space complexity
 
 ANYWAYS I'm up for better solution or better time and space complexity so kindly ***FORK*** this repo and 
-I'll be ***happy to MERGE***.
+I'll be ***happy to MERGE*** if you got a nice and clever solution.
