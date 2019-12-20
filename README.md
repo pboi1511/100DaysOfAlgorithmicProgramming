@@ -1,4 +1,4 @@
-# 100DaysOfCompititiveProgramming
+# 100DaysOfAlgorithmicProgramming
 Here I'll posting my solution to the problems of various competitive websites.
 
 I'll be the problem with some of it's test cases for better understanding.
