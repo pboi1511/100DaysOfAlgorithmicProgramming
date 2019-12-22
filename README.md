@@ -1,5 +1,5 @@
 # 100DaysOfAlgorithmicProgramming
-Here I willbe  posting my solution to the problems on various competitive websites.
+Here I will be  posting my solution to the problems on various competitive websites.
 
 I'll post the problem with some of it's test cases for better understanding.
 I'll be posting my solution with my time and Space complexity
